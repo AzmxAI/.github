@@ -4,13 +4,11 @@
 
 **The sovereign agent platform.**
 
-A native desktop AI terminal — multi-tab PTY, integrated code editor, file explorer, and a first-class agent side-panel. BYOK any major provider, or run free local models via Ollama. ~10 MB installer. No telemetry by default. Keys in a user-only file, never the OS keychain.
 
 [**Download**](https://github.com/AzmxAI/azmx/releases/latest) ·
 [**Website**](https://azmx.ai) ·
 [**Docs**](https://azmx.ai/docs) ·
 [**Changelog**](https://github.com/AzmxAI/azmx/releases) ·
-[**Security**](mailto:security@azmx.app)
 
 </div>
 
